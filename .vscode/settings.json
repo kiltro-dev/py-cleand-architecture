@@ -1,0 +1,12 @@
+{
+  "[python]": {
+    "editor.codeActionsOnSave": {
+      "source.organizeImports.ruff": true
+    }
+  },
+  "editor.defaultFormatter": "ms-python.autopep8",
+  "editor.tabSize": 4,
+  "[yaml]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  }
+}
